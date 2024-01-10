@@ -1,0 +1,19 @@
+.container {
+  max-width:700px;
+  margin:0 auto;
+}
+
+.heading{
+  text-align: center;
+}
+
+.input-container{
+  display: flex;
+  justify-content: center;
+}
+
+.input-container input{
+  padding: 6px 16px;
+  width:250px;
+  border-radius: 4px;
+}
